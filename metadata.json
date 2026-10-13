@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Mockup Studio",
+  "description": "Real-time custom apparel mockup studio and configurator for backpacks, caps, sneakers, and streetwear tees with instant print visualization and e-commerce cart previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
